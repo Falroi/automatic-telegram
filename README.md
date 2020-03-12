@@ -1,6 +1,6 @@
 # automatic-telegram
 ## git
-add (filename)
-status <br>
-commit -m "" <br>
-log
+add (filename)<br>
+status<br>
+commit -m ""<br>
+log<br>

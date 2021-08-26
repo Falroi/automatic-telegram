@@ -5,12 +5,4 @@ status<br>
 commit -m ""<br>
 log<br>
 
-this line is strictly for gpg signing test with a yubikey within vscode
-
-this line is another test
-
-another another test
-
-another another another
-
-another one
+this is a test of git functionality with github and yubikey pgp signing commits / ssh authentication with the pgp auth key.
